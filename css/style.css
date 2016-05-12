@@ -1,0 +1,19 @@
+/*body{
+    background-color: #f1f1f1;
+}
+
+.inp{
+    background-color: #FFFFFF;
+}*/
+
+.container{
+    width :80% !important;
+}
+
+.close{
+    color:red;
+}
+
+.list-item{
+    margin-bottom:0px;
+}
